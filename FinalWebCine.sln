@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalWebCine", "FinalWebCine\FinalWebCine.csproj", "{A138E9A3-ABE9-4964-B104-10900CF4028A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A138E9A3-ABE9-4964-B104-10900CF4028A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A138E9A3-ABE9-4964-B104-10900CF4028A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A138E9A3-ABE9-4964-B104-10900CF4028A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A138E9A3-ABE9-4964-B104-10900CF4028A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
